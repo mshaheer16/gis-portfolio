@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gis-portfolio/static/css/main.6bdb418e.css",
+    "main.js": "/gis-portfolio/static/js/main.732a52e8.js",
+    "index.html": "/gis-portfolio/index.html",
+    "main.6bdb418e.css.map": "/gis-portfolio/static/css/main.6bdb418e.css.map",
+    "main.732a52e8.js.map": "/gis-portfolio/static/js/main.732a52e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bdb418e.css",
+    "static/js/main.732a52e8.js"
+  ]
+}
